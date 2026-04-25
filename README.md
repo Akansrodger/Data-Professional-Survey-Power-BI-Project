@@ -1,5 +1,8 @@
 # Data-Professional-Survey-Power-BI-Project
 
+<img width="776" height="441" alt="Screenshot 2026-04-26 002529" src="https://github.com/user-attachments/assets/676ed2a3-3eef-4830-9f9a-3c2690c9901b" />
+
+
 **🎯 Project Objective**
 
 The objective of this project was to analyze the career landscape for data professionals globally using real-life survey data. The dashboard provides an interactive view of how job titles, programming languages, and geographic locations impact salary and job satisfaction.
@@ -82,3 +85,5 @@ Entry Difficulty: 42.68% find it "Neither easy nor difficult," yet a significant
 
 **🏁 Final Conclusion**
 This dashboard offers a comprehensive look at the realities of the data profession. While Python and Data Science roles offer the highest perceived value, the industry faces challenges with salary satisfaction. For those looking to enter the field, technical proficiency in Python and a strategic focus on high-paying roles like Data Science or Architecture remain the most effective paths.
+
+
